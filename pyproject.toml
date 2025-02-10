@@ -5,7 +5,7 @@ description = ""
 authors = ["Pieter Fiers <pieter@pfiers.net>"]
 license = "MIT License"
 readme = "README.md"
-packages = [{include = "python_transformation_libraries_benchmark"}]
+packages = [{include = "python-transformation-libraries-benchmark"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
